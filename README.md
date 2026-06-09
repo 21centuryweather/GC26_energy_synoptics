@@ -1,12 +1,12 @@
-# Project title
-
-**Research area:**
-
-**Research questios:**
+# Energy Meteorology: The synoptic meteorology driving renewable energy
 
 **Project Leads**
-* name, affiliation/github username
-* 
+* Michael Barnes, Monash
+* Chenhui Jin, Monash
+* Cindy Nguyen-Dang, uTas
+* Dakota Forbis, Monash
+
+**Research questions:**
 
 **Project members:**
 * name, affiliation/github username
