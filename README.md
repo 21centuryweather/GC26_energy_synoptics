@@ -8,9 +8,12 @@
 
 **Project members:**
 * name, affiliation/github username
+
+**Subproject 1: Synoptic Meteorology of Wind Droughts**
 * 
 
-**Research questions:**
+**Subproject 2: Synoptic Meteorology of Energy Demand**
+* 
 
 This project is structured as following:
 
