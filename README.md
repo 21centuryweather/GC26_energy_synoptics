@@ -10,17 +10,18 @@
 
 * Nico Keeghan (nkee0001@student.monash.edu; GitHub: nkeeghan)
 * Blake Xu (blake.xu@anu.edu.au; Github: Ic-berg)
-* Xinhui Wang (xinhui.wang@utas.edu.au) Github: Taleofpigs
-* Sam Dahl (s.dahl@unsw.edu.au) Github: samcdahl
+* Xinhui Wang (xinhui.wang@utas.edu.au; Github: Taleofpigs
+* Sam Dahl (s.dahl@unsw.edu.au; Github: samcdahl)
 
-* Paushali Deb (paushalideb.paushalideb@utas.edu.au); Github:PaushaliDeb)
+* Paushali Deb (paushalideb.paushalideb@utas.edu.au; Github:PaushaliDeb)
 * Sibyl Cheng (siby.cheng@unsw.edu.au; Github:sibylcheng)
 * Linyuan Sun (linyuan.sun@unsw.edu.au; GitHub: Linyuan-Sun)
-* Samuel Marcus. Samuel.Marcus@monash.edu. SamuelMarcus-cell
-* Emma Fitzgerald (emma.fitzgerald@anu.edu.au Github: Emma4033
+* Samuel Marcus (Samuel.Marcus@monash.edu; Github SamuelMarcus-cell)
+* Emma Fitzgerald (emma.fitzgerald@anu.edu.au; Github: Emma4033)
 
 **Subproject 1: Synoptic Meteorology of Wind Droughts**
 * Which weather regimes, or sequences of regimes, relate to wind droughts/lulls of different durations, intensities etc?
+* Does ENSO change the above relationship?
 * Which weather features drive wind droughts?
 
 **Subproject 2: Synoptic Meteorology of Energy Demand**
