@@ -6,12 +6,11 @@
 * Cindy Nguyen-Dang, uTas
 * Dakota Forbis, Monash
 
-**Research questions:**
-
 **Project members:**
 * name, affiliation/github username
 * 
 
+**Research questions:**
 
 This project is structured as following:
 
