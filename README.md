@@ -28,37 +28,11 @@
 * What are the trends in energy demand and their relationships to weather objects?
 * How does energy demand relate to weather regimes?
 
-**Bonus Project: Seasonal Predictability of Energy Meteorology
+**Bonus Project: Seasonal Predictability of Energy Meteorology**
 * Does the wind-regime relationship (of SP-1) hold in ACCESS-S2?
 * How predictable are the frequencies and/or sequences of regimes that drive wind drought?
 
 
-This project is structured as following:
-
-```bash
-project_name/
-├── analysis
-│   ├── example.ipynb
-│   └── figures
-│       └── .figures
-├── data # (optional, link to data project)
-│   ├── processed
-│   └── raw
-│       └── DO_NOT_EDIT
-├── .envrc
-├── .git
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── src
-│   └── project_name
-│       ├── __init__.py
-│       └── sample_fun.py
-└── tests
-    └── project_name
-        └── test_sample_fun.py
-
-```
 
 ## Contributing Guidelines
 
