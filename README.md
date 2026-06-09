@@ -7,7 +7,6 @@
 * Dakota Forbis (dakota.forbis@monash.edu; GitHub: )
 
 **Project members:**
-
 * Nico Keeghan (nkee0001@student.monash.edu; GitHub: nkeeghan)
 * Blake Xu (blake.xu@anu.edu.au; Github: Ic-berg)
 * Xinhui Wang (xinhui.wang@utas.edu.au; Github: Taleofpigs
@@ -24,12 +23,12 @@
 * Does ENSO change the above relationship?
 * Which weather features drive wind droughts?
 
-**Subproject 2: Synoptic Meteorology of Energy Demand**
+**Subproject 2: Synoptic Meteorology of Energy Demand** 
 * How do the Australian weather objects relate to energy demand in Australian capital cities and major towns?
 * What are the trends in energy demand and their relationships to weather objects?
 * How does energy demand relate to weather regimes?
 
-**Bonus Project: Seasonal Predictability of Energy Meteorology**
+**Bonus Project: Seasonal Predictability of Energy Meteorology** (Required NCI project: ux62)
 * Does the wind-regime relationship (of SP-1) hold in ACCESS-S2?
 * How predictable are the frequencies and/or sequences of regimes that drive wind drought?
 
