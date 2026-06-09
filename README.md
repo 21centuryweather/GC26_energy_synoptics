@@ -10,10 +10,18 @@
 * name, affiliation/github username
 
 **Subproject 1: Synoptic Meteorology of Wind Droughts**
-* 
+* Which weather regimes, or sequences of regimes, relate to wind droughts/lulls of different durations, intensities etc?
+* Which weather features drive wind droughts?
 
 **Subproject 2: Synoptic Meteorology of Energy Demand**
-* 
+* How do the Australian weather objects relate to energy demand in Australian capital cities and major towns?
+* What are the trends in energy demand and their relationships to weather objects?
+* How does energy demand relate to weather regimes?
+
+**Bonus Project: Seasonal Predictability of Energy Meteorology
+* Does the wind-regime relationship (of SP-1) hold in ACCESS-S2?
+* How predictable are the frequencies and/or sequences of regimes that drive wind drought?
+
 
 This project is structured as following:
 
