@@ -9,7 +9,7 @@
 **Project members:**
 * Nico Keeghan (nkee0001@student.monash.edu; GitHub: nkeeghan)
 * Blake Xu (blake.xu@anu.edu.au; Github: Ic-berg)
-* Xinhui Wang (xinhui.wang@utas.edu.au; Github: Taleofpigs
+* Xinhui Wang (xinhui.wang@utas.edu.au; Github: Taleofpigs)
 * Sam Dahl (s.dahl@unsw.edu.au; Github: samcdahl)
 
 * Paushali Deb (paushalideb.paushalideb@utas.edu.au; Github:PaushaliDeb)
