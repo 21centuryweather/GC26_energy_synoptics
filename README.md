@@ -1,4 +1,4 @@
-# Energy Meteorology: The synoptic meteorology driving renewable energy
+# Energy Meteorology: The synoptic meteorology impacting renewable energy supply and demand
 
 **Project Leads**
 * Michael Barnes (michael.barnes@monash.edu; GitHub: weathermanbarnes)
