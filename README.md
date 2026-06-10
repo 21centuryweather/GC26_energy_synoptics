@@ -32,7 +32,8 @@
 * Does the wind-regime relationship (of SP-1) hold in ACCESS-S2?
 * How predictable are the frequencies and/or sequences of regimes that drive wind drought?
 
-
+## References
+https://iopscience.iop.org/article/10.1088/1748-9326/ad9b3b
 
 ## Contributing Guidelines
 
