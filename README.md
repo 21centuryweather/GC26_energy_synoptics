@@ -4,7 +4,7 @@
 * Michael Barnes (michael.barnes@monash.edu; GitHub: weathermanbarnes)
 * Chenhui Jin (chenhui.jin@monash.edu; GitHub: chenhui-jin)
 * Cindy Nguyen-Dang (cindy.nguyendang@monash.edu; GitHub: )
-* Dakota Forbis (dakota.forbis@monash.edu; GitHub: )
+* Dakota Forbis (dakota.forbis@monash.edu; GitHub: ForbisDakota)
 
 **Project members:**
 * Nico Keeghan (nkee0001@student.monash.edu; GitHub: nkeeghan)
@@ -33,7 +33,7 @@
 * How predictable are the frequencies and/or sequences of regimes that drive wind drought?
 
 ## References
-https://iopscience.iop.org/article/10.1088/1748-9326/ad9b3b
+Energy Demand: Richardson et. al (2024): https://iopscience.iop.org/article/10.1088/1748-9326/ad9b3b
 
 ## Contributing Guidelines
 
