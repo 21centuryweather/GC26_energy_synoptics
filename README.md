@@ -35,6 +35,9 @@
 ## References
 Energy Demand: Richardson et. al (2024): https://iopscience.iop.org/article/10.1088/1748-9326/ad9b3b
 
+Weather object: Sprenger et al. (2017): https://journals.ametsoc.org/view/journals/bams/98/8/bams-d-15-00299.1.xml
+
+
 ## Contributing Guidelines
 
 > The group will decide how to work as a team. This is only an example. 
