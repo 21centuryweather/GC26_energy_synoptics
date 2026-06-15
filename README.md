@@ -11,6 +11,7 @@
 * Blake Xu (blake.xu@anu.edu.au; Github: Ic-berg)
 * Xinhui Wang (xinhui.wang@utas.edu.au; Github: Taleofpigs)
 * Sam Dahl (s.dahl@unsw.edu.au; Github: samcdahl)
+* Quentin Rossier (q.rossier@student.unsw.edu.au, Github: qro4)
 
 * Paushali Deb (paushalideb.paushalideb@utas.edu.au; Github:PaushaliDeb)
 * Sibyl Cheng (siby.cheng@unsw.edu.au; Github:sibylcheng)
