@@ -38,6 +38,8 @@ Energy Demand: Richardson et. al (2024): https://iopscience.iop.org/article/10.1
 
 Weather object: Sprenger et al. (2017): https://journals.ametsoc.org/view/journals/bams/98/8/bams-d-15-00299.1.xml
 
+Weather types: Barnes et. al. (2025): https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD043873
+
 
 ## Contributing Guidelines
 
