@@ -24,6 +24,24 @@
 * Does ENSO change the above relationship?
 * Which weather features drive wind droughts?
 
+*Task list*
+* Create a climatology of wind drought over Australia. Wind drought at a grid point is when the daily mean 100 m wind speed in ERA5 < 25th percentile for 3 days
+* Test sensitivies to climatology
+  - Test 10 m wind speeds
+  - Test absolute thresholds (3 m/s, 8 m/s)
+  - Including cut-out in wind drought (25 m/s)
+  - Testing BARRA vs ERA5
+  - Using Wind capacity factor thresholds (0.1, 0.2)
+  - Hourly wind droughts definitions? Night-time peak only?
+* Statistics / analyses of wind droughts
+  - Regional differences (state-based, land versus offshore?)
+  - Size
+  - Duration
+  - Correlation to windy areas for wind drought-prone areas?
+* Synoptic characteristics
+  - Weather objects (using attribution code)
+  - Weather regimes (daily)
+
 **Subproject 2: Synoptic Meteorology of Energy Demand** 
 * How do the Australian weather objects relate to energy demand in Australian capital cities and major towns?
 * What are the trends in energy demand and their relationships to weather objects?
