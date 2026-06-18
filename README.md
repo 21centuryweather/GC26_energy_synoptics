@@ -41,6 +41,15 @@
 * Synoptic characteristics
   - Weather objects (using attribution code)
   - Weather regimes (daily)
+ 
+**Slides**  
+1. Climatology/seasonal cycle/thresholding/data problems  (Sam/Quentin)
+2. Regimes of wind droughts (Nico/Quentin)
+3. Weather objects including cyclones, possibly also TCs (Blake/Xinhui)
+4. ENSO (Quentin)
+5. Wrap-up slides/main key points/issues (all)
+
+Link: https://docs.google.com/presentation/d/1sEhjPGqmAoeivRUKjAe9fuKgEw0omM1SHk9JWqh25Wc/edit?slide=id.p#slide=id.p
 
 **Subproject 2: Synoptic Meteorology of Energy Demand** 
 * How do the Australian weather objects relate to energy demand in Australian capital cities and major towns?
