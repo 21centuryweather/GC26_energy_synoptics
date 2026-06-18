@@ -47,6 +47,8 @@
 * What are the trends in energy demand and their relationships to weather objects?
 * How does energy demand relate to weather regimes?
 
+Google slides: https://docs.google.com/presentation/d/1IvGd6sj0gboNPYQs6ZyMqMz4z-6lE8k0JtGOHd5P5yI/edit?usp=sharing
+
 **Bonus Project: Seasonal Predictability of Energy Meteorology** (Required NCI project: ux62)
 * Does the wind-regime relationship (of SP-1) hold in ACCESS-S2?
 * How predictable are the frequencies and/or sequences of regimes that drive wind drought?
